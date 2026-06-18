@@ -53,7 +53,7 @@ A trading journal for logging trades, calculating PnL, and retrieving performanc
    gradlew.bat bootRun
    ```
 
-## 📖 API Documentation & Testing
+## API Documentation & Testing
 
 Once the application is running, you can access the interactive API docs to test the endpoints directly from your browser:
 
